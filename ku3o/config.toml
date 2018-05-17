@@ -1,0 +1,4 @@
+baseURL = "https://ku3o.engineer"
+languageCode = "en-us"
+title = "Call me Ku3o"
+theme = "sam"
